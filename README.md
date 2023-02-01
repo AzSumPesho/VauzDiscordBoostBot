@@ -1,5 +1,5 @@
 # VauzDiscordBoostBot
-Hello Vauz Fanboys!! Don't mind me, we are just here to provide you all with the biggest Skid's Bot Source Just so yk, there's some very very nasty shit that was in the bot, but dw I've removed all of it for your safety! (Still don't run this shit without checking it, as I am just a random stranger on the internet)
+Hello Vauz Fanboys!! Don't mind us, we are just here to provide you all with the biggest skid's bot source. Just so yk, there was some very very nasty shit that was in the bot, but dw as I've removed all of it for your safety! (Still don't run this shit without checking it, as I am just a random stranger on the internet)
 
 Credits: mortalz#2023 and his friend - literally gave me this shit and did all of the work
 
