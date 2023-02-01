@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "owner": "",
+    "guild_id": "",
+    "capmonster_key": "",
+    "server_nick": "Vauz sucks dick",
+    "change_server_nick": true,
+    "proxyless": true,
+    "field_name_invite": "Invite",
+    "order_log_webhook": "",
+    "boost_failed_log_webhook": "",
+    "boost_log_webhook": "",
+    "license_key": ""
+}
